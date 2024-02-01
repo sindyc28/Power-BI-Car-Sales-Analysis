@@ -13,6 +13,14 @@ The objective of this project is to design and develop a dynamic and interactive
 <br>
 <br>
 
+<p align="center">
+  <kbd><img src="asset/image1.png" width=800px> </kbd> <br>
+  Gambar 1. Page 1 (Overview)
+
+<p align="center">
+  <kbd><img src="asset/image.png" width=800px> </kbd> <br>
+  Gambar 2. Page 2 (Details)
+
 ---
 
 ### 📌 **Problem Statement 1: KPI’s Requirement**
